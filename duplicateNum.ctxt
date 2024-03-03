@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=duplicateNum
+comment1.params=nums
+comment1.target=int\ removeDuplicates(int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
