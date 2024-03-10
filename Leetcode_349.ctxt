@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Leetcode_349
+comment1.params=nums1\ nums2
+comment1.target=int[]\ intersection(int[],\ int[])
+comment2.params=
+comment2.target=void\ main()
+numComments=3
